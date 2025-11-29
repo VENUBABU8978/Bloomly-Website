@@ -11,13 +11,16 @@ Experience the live version of Bloomly here:
  https://VENUBABU8978.github.io/Bloomly-Website/
 
 🌟 Key Features
+
 Category	Feature	Description
 Design	100% Responsive	Optimized layout for mobiles, tablets & desktops.
 Navigation	Sticky Header & Icons	Easy access to wishlist, cart & profile with a persistent header.
 Showcase	Dynamic Product Cards	Product cards with pricing, discounts & engaging hover effects.
 Trust	Customer Reviews	Real-looking testimonials to build credibility.
 Engagement	Service Icons	Highlights Free Delivery, Secure Payments & Returns.
+
 💻 Tech Stack
+
 Technology	Purpose
 HTML5	Base structure & semantic content
 CSS3	Custom styling, flexbox & media queries
@@ -51,7 +54,7 @@ Simply open index.html in any browser.
 Built & maintained by: Venu Babu Gunturur
 
 🔗 Portfolio: Add your portfolio link
-🔗 LinkedIn: Add your LinkedIn profile link
+🔗 LinkedIn: https://www.linkedin.com/in/venubabu-gunturu-104249263
 
 📝 License
 
